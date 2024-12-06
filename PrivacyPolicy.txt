@@ -1,0 +1,32 @@
+Effective Date: 5/12/2024
+
+We respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and safeguard your data when you use the Pinterest Scheduler app.
+
+1. Information We Collect
+We may collect the following types of information:
+
+Personal Information: Your name, email address, and Pinterest account details when you connect your account.
+Usage Data: Information about how you use the app, such as scheduled pin details and timestamps.
+2. How We Use Your Information
+We use the information we collect for the following purposes:
+
+To enable scheduling of Pinterest pins as requested by you.
+To maintain and improve the app's functionality and user experience.
+To troubleshoot issues and provide customer support.
+3. Data Sharing and Security
+We do not sell or share your personal information with third parties for marketing purposes.
+Your data is securely stored and only accessed to provide the services offered by the app.
+We use industry-standard security measures to protect your information.
+4. Third-Party Services
+This app uses the Pinterest API. Your use of Pinterest Scheduler is subject to Pinterest's Terms of Service and Privacy Policy.
+
+5. Your Rights
+You have the right to:
+
+Access, update, or delete your personal information.
+Disconnect your Pinterest account from the app at any time.
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be communicated through the app or via email.
+
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us
